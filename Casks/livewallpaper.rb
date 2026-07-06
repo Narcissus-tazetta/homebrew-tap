@@ -7,7 +7,7 @@ cask "livewallpaper" do
   desc "Set your favorite videos as Mac desktop wallpaper"
   homepage "https://github.com/Narcissus-tazetta/LiveWallpaper"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "LiveWallpaper.app"
 
