@@ -1,6 +1,6 @@
 cask "livewallpaper" do
-  version "1.2.7"
-  sha256 "d2e0ba566a6dec02abdb8b611badcccd1621066813c95fcb66acbad582f1cfe3"
+  version "1.3.0"
+  sha256 "0a2891c645bfb7cfcb7f9502ecddb2301acf98ad64954634b8fca19f730b8bfa"
 
   url "https://github.com/Narcissus-tazetta/LiveWallpaper/releases/download/v#{version}/LiveWallpaper-macos-v#{version}.zip"
   name "LiveWallpaper"
