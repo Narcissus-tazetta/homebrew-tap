@@ -1,6 +1,6 @@
 cask "curstyle" do
-  version "0.2.0"
-  sha256 "d59f176f58828d5dce97a545536bce46cd60a5b50d055666b467de2f1b3456cf"
+  version "0.2.1"
+  sha256 "16459851da549399e7d5a19ce6ea5f75e29587ec04a1219c85dda85d9a144d65"
 
   url "https://github.com/Narcissus-tazetta/Curstyle/releases/download/v#{version}/Curstyle-macos-v#{version}.zip"
   name "Curstyle"
